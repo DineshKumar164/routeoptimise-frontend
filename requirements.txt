@@ -1,0 +1,14 @@
+seaborn==0.13.2
+folium==0.18.0
+plotly==5.24.0
+osmnx==1.9.4
+ortools==9.10.4067
+scikit-learn==1.5.1
+pandas==2.2.0
+googlemaps==4.10.0
+dash==2.18.2
+flask==3.0.3
+numpy==1.26.4
+networkx==3.2.1
+python-dotenv==1.0.0
+shapely==2.0.2 
